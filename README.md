@@ -1,6 +1,6 @@
 <h3>🔌 Advanced PCB Design Project</h3>
 
-- <b><a href="YOUR_GITHUB_LINK_HERE">Advanced 4-Layer STM32F4 PCB Design</a></b>
+- <b><a href="https://github.com/WaleedUmer357/Advanced-PCB-Design-AltiumSTM32f4/tree/main">Advanced 4-Layer STM32F4 PCB Design</a></b>
   - Professional 4-layer PCB design featuring STM32F4 microcontroller
   - <a href="https://github.com/WaleedUmer357/Advanced-PCB-Design-AltiumSTM32f4">Altium Project Files</a> | <a href="https://github.com/WaleedUmer357/Advanced-PCB-Design-AltiumSTM32f4/tree/main/Project%20Outputs%20for%20AltiumSTM32_ExamplePCB">Gerber Files</a> | <a href="https://github.com/WaleedUmer357/Advanced-PCB-Design-AltiumSTM32f4/tree/main/Project%20Outputs%20for%20AltiumSTM32_ExamplePCB">BOM</a>
   
