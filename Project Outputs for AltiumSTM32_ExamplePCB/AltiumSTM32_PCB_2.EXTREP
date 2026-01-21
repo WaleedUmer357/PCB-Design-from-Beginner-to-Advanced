@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: AltiumSTM32_PCB_2.GBR   1/15/2026  10:59:35 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1(Signal)                              
+.gbr                L2(GND)                                 
+.gbr                L3(GND)                                 
+.gbr                L4(Signal)                              
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Mechanical 1                            
+.gbr                Top Assembly                            
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Component Center                    
+.gbr                Top Tenting                             
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
